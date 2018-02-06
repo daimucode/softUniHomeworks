@@ -30,7 +30,7 @@ namespace mostFrequentNumber
                     }
                 }
             }
-
+            //TODO: ask why it doesnt give the full number of points
             Console.WriteLine(mostFrequent);
         }
     }
