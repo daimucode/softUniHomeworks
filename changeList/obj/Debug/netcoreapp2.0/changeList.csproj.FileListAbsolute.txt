@@ -1,0 +1,11 @@
+C:\Users\horar\source\repos\indexOfLetters\changeList\bin\Debug\netcoreapp2.0\changeList.deps.json
+C:\Users\horar\source\repos\indexOfLetters\changeList\bin\Debug\netcoreapp2.0\changeList.runtimeconfig.json
+C:\Users\horar\source\repos\indexOfLetters\changeList\bin\Debug\netcoreapp2.0\changeList.runtimeconfig.dev.json
+C:\Users\horar\source\repos\indexOfLetters\changeList\bin\Debug\netcoreapp2.0\changeList.dll
+C:\Users\horar\source\repos\indexOfLetters\changeList\bin\Debug\netcoreapp2.0\changeList.pdb
+C:\Users\horar\source\repos\indexOfLetters\changeList\obj\Debug\netcoreapp2.0\changeList.csprojResolveAssemblyReference.cache
+C:\Users\horar\source\repos\indexOfLetters\changeList\obj\Debug\netcoreapp2.0\changeList.csproj.CoreCompileInputs.cache
+C:\Users\horar\source\repos\indexOfLetters\changeList\obj\Debug\netcoreapp2.0\changeList.AssemblyInfoInputs.cache
+C:\Users\horar\source\repos\indexOfLetters\changeList\obj\Debug\netcoreapp2.0\changeList.AssemblyInfo.cs
+C:\Users\horar\source\repos\indexOfLetters\changeList\obj\Debug\netcoreapp2.0\changeList.dll
+C:\Users\horar\source\repos\indexOfLetters\changeList\obj\Debug\netcoreapp2.0\changeList.pdb
